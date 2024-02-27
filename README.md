@@ -17,9 +17,8 @@ Top 10 happiest countries: <br/>
 Relationship of happiness score with life expectancy, social support and GDP   
 <img src="worldhappiness(3).png"/>
 
-# Final dashboard
-![](worldhappiness(4).png)
-
+<h1>Final Dashboard</h1> 
+<img src ="worldhappiness(4).png"/>
 
 
 
