@@ -9,7 +9,7 @@ Tableau Public
 
 <p align="center">
 Darker the colour = Greater the happiness score: <br/>
-<img src=worldhappiness(1).png/>
+<img src=worldhappiness(1).png/> 
 <p align="center">
 Top 10 happiest countries: <br/> 
 <img src=worldhappiness(2).png/>
