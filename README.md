@@ -20,8 +20,8 @@ Relationship of happiness score with life expectancy, social support and GDP
 
 
 # Final Dashboard
+<img src="worldhappiness(4).png"/>
 
-![]("worldhappiness(4).png")
 
 
 
