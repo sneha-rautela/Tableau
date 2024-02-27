@@ -8,4 +8,8 @@ Tableau Public
 ## Project walk-through
 
 <p align="center">
-Country wise happiness score:<br/>
+<img src=worldhappiness(1).png/>
+  
+<img src=worldhappiness(2).png/>
+
+<img src=worldhappiness(3).png/>
