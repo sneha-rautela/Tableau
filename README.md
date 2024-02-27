@@ -8,6 +8,7 @@ Tableau Public
 ## Project walk-through
 
 <p align="center">
+Darker the colour = happier the countires
 <img src=worldhappiness(1).png/> 
 <p align="center">
 Top 10 happiest countries: <br/> 
